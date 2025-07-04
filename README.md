@@ -75,7 +75,7 @@ Projeto desenvolvido por alunos da Estácio:
 - Maykon Oliveira Santos
 - Eduarda Oliveira Bispo
 - Samilla Vitória Novais Pereira
-- Victor Junior Alves da Silva Matos
+- *Victor Junior Alves da Silva Matos*
 - Vinicius Monteiro
 
 ---
